@@ -1,6 +1,6 @@
 [project]
 name = "ipv6-int-converter"
-version = "0.1.1"
+version = "0.1.2"
 description = "Convert IPv6 addresses between colon-hex string and packed 128-bit integer representations."
 requires-python = ">=3.10"
 dependencies = []
